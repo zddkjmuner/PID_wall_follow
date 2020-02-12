@@ -1,0 +1,6 @@
+First, run:
+roslaunch f110_simulator simulator.launch
+
+Then, run:
+rosrun dingding_zheng_wallfollow zdd_wall_follow
+
